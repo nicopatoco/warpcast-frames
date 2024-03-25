@@ -35,6 +35,12 @@ Next, run the development server:
 npm run dev
 ```
 
+Run framesjs debugger:
+
+```bash
+frames
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 For the basic frame example, go to [http://localhost:3000/basic](http://localhost:3000/basic)
