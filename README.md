@@ -15,7 +15,7 @@ Clone the repo and install dependencies
 git clone https://github.com/ChangoMan/frames.git
 
 # Enter the new directory
-cd frames
+cd warpcast-frames
 
 # Install dependencies
 npm install
