@@ -12,7 +12,7 @@ Clone the repo and install dependencies
 
 ```bash
 # Clone the repo
-git clone https://github.com/ChangoMan/frames.git
+git clone git@github.com:nicopatoco/warpcast-frames.git
 
 # Enter the new directory
 cd warpcast-frames
